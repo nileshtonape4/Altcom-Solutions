@@ -1,2 +1,1 @@
-# python
-pyhton tutorials
+# Altcom Solutions portfolio
